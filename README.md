@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👾 Suheyb
-
 **Cybersecurity Student** | Penetration Testing · Threat Hunting · Malware Analysis
 
 </div>
@@ -9,11 +8,11 @@
 ---
 
 ## About me
-
 Passionate about offensive and defensive security — from exploiting vulnerabilities in lab environments to hunting threats in SIEM platforms. I document my work through hands-on labs and CTF-style projects.
 
 - 🔴 Offensive: exploitation, privilege escalation, pivoting, SQL injection
 - 🔵 Defensive: SIEM/threat hunting, phishing analysis, YARA detection rules
+- ☁️ Branching into cloud & infrastructure security (Azure, containers, system-level performance testing)
 - 🛠️ Always building, breaking, and learning
 - 🔨 Currently building a home SOC lab
 
@@ -26,7 +25,12 @@ Passionate about offensive and defensive security — from exploiting vulnerabil
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -42,6 +46,7 @@ Passionate about offensive and defensive security — from exploiting vulnerabil
 | 💥 [shellshock-pwnos](https://github.com/Suheybb/shellshock-pwnos) | Exploitation of Shellshock vulnerability on PwnOS |
 | 💉 [sql-injection-password-cracking](https://github.com/Suheybb/sql-injection-password-cracking) | SQL injection attacks and password hash cracking |
 | ⚙️ [metasploit-exploitation](https://github.com/Suheybb/metasploit-exploitation) | Metasploit-based exploitation walkthroughs |
+| 🖥️ [linux-vm-performance-lab](https://github.com/Suheybb/linux-vm-performance-lab) | System inspection, load testing, and Docker performance comparison on a Linux VM |
 
 ---
 
