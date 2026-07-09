@@ -1,5 +1,5 @@
 <div align="center">
-# 👾 Suheyb
+#👾 Suheyb
   
 **Cybersecurity Student** | SOC Analysis · Cloud Security · Threat Hunting
 </div>
