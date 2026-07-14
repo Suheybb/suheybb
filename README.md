@@ -47,6 +47,4 @@ Focused on security operations and cloud security — from detecting and triagin
 
 ---
 
-<div align="center">
-<sub>⚡ "The quieter you become, the more you are able to hear." – Kali Linux</sub>
-</div>
+
