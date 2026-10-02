@@ -1,50 +1,58 @@
 <div align="center">
 <h1>Suheyb</h1>
-  
-**Cybersecurity Student** | SOC Analysis · Cloud Security · Threat Hunting
+
+**Cloud & Security Student** | Azure · Infrastructure as Code · DevOps · Cloud Security
 </div>
 
 ---
 
 ## About me
-Focused on security operations and cloud security — from detecting and triaging threats in SIEM platforms to hardening cloud environments. I also work hands-on with offensive security to understand attacker techniques from the other side. I document everything through structured labs and CTF-style projects.
+IT/cybersecurity student focused on building and automating cloud infrastructure with security built in from the start. I work with Azure, Docker, Terraform and CI/CD pipelines to design environments that are hardened, observable and easy to maintain.
 
-- 🔵 **SOC / Blue Team:** SIEM/threat hunting, phishing analysis, YARA detection rules, log analysis
-- ☁️ **Cloud & Infrastructure Security:** Azure, containers, system-level performance & hardening
-- 🔴 **Offensive Security:** exploitation, privilege escalation, pivoting, SQL injection
-- 🔨 Currently building a home SOC lab (Splunk, Kali, Windows VM)
-
+- ☁️ **Cloud:** Azure, containers, Azure Container Apps, Linux administration
+- ⚙️ **Infrastructure as Code & DevOps:** Terraform, GitHub Actions, Docker, automated deployments
+- 🔐 **Cloud Security:** IAM, least privilege, hardening, logging & monitoring
+- 🔨 Currently building: Flask app → Docker → Azure Container Apps, provisioned with Terraform and deployed via GitHub Actions
 
 ---
 
 ## Tools & Technologies
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-## Projects
+## Cloud & Infrastructure Projects
+| Repo | Description |
+|---|---|
+| ☁️ [linux-vm-performance-lab](https://github.com/Suheybb/linux-vm-performance-lab) | System inspection, load testing, and Docker performance comparison on a Linux VM |
+| 🚀 Cloud DevOps project *(in progress)* | Flask → Docker → Azure Container Apps, Terraform IaC, CI/CD with GitHub Actions |
+
+## Security Projects
 | Repo | Description |
 |---|---|
 | 🛡️ [SIEM-threat-hunting](https://github.com/Suheybb/SIEM-threat-hunting) | Threat hunting queries and detection logic in Splunk |
-| 📧 [Phishing-macro-analysis](https://github.com/Suheybb/Phishing-macro-analysis) | Analysis of phishing emails with malicious macro payloads |
 | 🧬 [Yara-clamav-detection](https://github.com/Suheybb/Yara-clamav-detection) | YARA rules for malware detection with ClamAV |
-| ☁️ [linux-vm-performance-lab](https://github.com/Suheybb/linux-vm-performance-lab) | System inspection, load testing, and Docker performance comparison on a Linux VM |
+| 📧 [Phishing-macro-analysis](https://github.com/Suheybb/Phishing-macro-analysis) | Analysis of phishing emails with malicious macro payloads |
 | 🔍 [penetration-testing-report](https://github.com/Suheybb/penetration-testing-report) | Full pentest report with methodology and findings |
 | 🔀 [pivoting-privilege-escalation](https://github.com/Suheybb/pivoting-privilege-escalation) | Pivoting techniques and privesc in multi-host environments |
+
+<details>
+<summary>More offensive security labs</summary>
+
+| Repo | Description |
+|---|---|
 | 💥 [shellshock-pwnos](https://github.com/Suheybb/shellshock-pwnos) | Exploitation of Shellshock vulnerability on PwnOS |
 | 💉 [sql-injection-password-cracking](https://github.com/Suheybb/sql-injection-password-cracking) | SQL injection attacks and password hash cracking |
 | ⚙️ [metasploit-exploitation](https://github.com/Suheybb/metasploit-exploitation) | Metasploit-based exploitation walkthroughs |
 
----
-
-
+</details>
