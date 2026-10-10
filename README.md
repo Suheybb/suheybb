@@ -13,6 +13,7 @@ IT/cybersecurity student focused on building and automating cloud infrastructure
 - ⚙️ **Infrastructure as Code & DevOps:** Terraform, GitHub Actions, Docker, automated deployments
 - 🔐 **Cloud Security:** IAM, least privilege, hardening, logging & monitoring
 - 🔨 Currently building: Flask app → Docker → Azure Container Apps, provisioned with Terraform and deployed via GitHub Actions
+- ⌚ Hobby project: [claude-whoop-coach](https://github.com/Suheybb/claude-whoop-coach) — an AI coach that uses my own WHOOP data, on its way from local script to Azure
 
 ---
 
