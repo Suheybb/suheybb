@@ -37,6 +37,11 @@ IT/cybersecurity student focused on building and automating cloud infrastructure
 | ☁️ [linux-vm-performance-lab](https://github.com/Suheybb/linux-vm-performance-lab) | System inspection, load testing, and Docker performance comparison on a Linux VM |
 | 🚀 Cloud DevOps project *(in progress)* | Flask → Docker → Azure Container Apps, Terraform IaC, CI/CD with GitHub Actions |
 
+## AI & Automation Projects
+| Repo | Description |
+|---|---|
+| ⌚ [claude-whoop-coach](https://github.com/Suheybb/claude-whoop-coach) | MCP server that connects WHOOP recovery, sleep and strain data to Claude for AI coaching (Python, OAuth 2.0, read-only) |
+
 ## Security Projects
 | Repo | Description |
 |---|---|
