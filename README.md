@@ -46,10 +46,10 @@ IT/cybersecurity student focused on building and automating cloud infrastructure
 ## Security Projects
 | Repo | Description |
 |---|---|
+| 🔍 [penetration-testing-report](https://github.com/Suheybb/penetration-testing-report) | Full pentest report with methodology and findings |
 | 🛡️ [SIEM-threat-hunting](https://github.com/Suheybb/SIEM-threat-hunting) | Threat hunting queries and detection logic in Splunk |
 | 🧬 [Yara-clamav-detection](https://github.com/Suheybb/Yara-clamav-detection) | YARA rules for malware detection with ClamAV |
 | 📧 [Phishing-macro-analysis](https://github.com/Suheybb/Phishing-macro-analysis) | Analysis of phishing emails with malicious macro payloads |
-| 🔍 [penetration-testing-report](https://github.com/Suheybb/penetration-testing-report) | Full pentest report with methodology and findings |
 | 🔀 [pivoting-privilege-escalation](https://github.com/Suheybb/pivoting-privilege-escalation) | Pivoting techniques and privesc in multi-host environments |
 
 <details>
